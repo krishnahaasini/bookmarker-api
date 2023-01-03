@@ -1,0 +1,9 @@
+name: flask-learn
+dependencies:
+- python=3.10
+- pip
+- pip:
+  - flask
+  - flake8
+  - black
+  - pytest==7.2.0
