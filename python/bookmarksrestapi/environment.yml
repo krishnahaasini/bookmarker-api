@@ -1,4 +1,4 @@
-name: flask-learn
+name: venv-bookmarks
 dependencies:
 - python=3.10
 - pip
