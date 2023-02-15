@@ -10,3 +10,6 @@ dependencies:
   - flask-sqlalchemy
   - Flask-Migrate
   - python-dotenv
+  - validators
+  - flask-jwt-extended
+  - flasgger
